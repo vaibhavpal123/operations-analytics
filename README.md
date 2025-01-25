@@ -7,15 +7,22 @@ This project focuses on analyzing the data which is provided by company. My task
 
 In case study 1 the insights are found based on following questions:
 
-Number of jobs reviewed: Amount of jobs reviewed over time.
-Throughput: Calculate 7 day rolling average of throughput? For throughput, do you prefer daily metric or 7-day rolling and why?
-Percentage share of each language: Share of each language for different contents.
-Duplicate rows: Rows that have the same value present in them.
+1. Number of jobs reviewed: Amount of jobs reviewed over time.
+
+2. Throughput: Calculate 7 day rolling average of throughput? For throughput, do you prefer daily metric or 7-day rolling and why?
+
+3. Percentage share of each language: Share of each language for different contents.
+
+4. Duplicate rows: Rows that have the same value present in them.
 
 In case study 2 the insights are found based on following questions:
 
-User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service.
-User Growth: Amount of users growing over time for a product.
-Weekly Retention: Users getting retained weekly after signing-up for a product.
-Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly.
-Email Engagement: Users engaging with the email service
+1. User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service.
+
+2. User Growth: Amount of users growing over time for a product.
+
+3. Weekly Retention: Users getting retained weekly after signing-up for a product.
+
+4. Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly.
+
+5. Email Engagement: Users engaging with the email service
